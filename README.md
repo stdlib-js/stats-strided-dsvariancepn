@@ -386,7 +386,7 @@ int main( void ) {
 -   <span class="package-name">[`@stdlib/stats-strided/dvariancepn`][@stdlib/stats/strided/dvariancepn]</span><span class="delimiter">: </span><span class="description">calculate the variance of a double-precision floating-point strided array using a two-pass algorithm.</span>
 -   <span class="package-name">[`@stdlib/stats-strided/dsvariance`][@stdlib/stats/strided/dsvariance]</span><span class="delimiter">: </span><span class="description">calculate the variance of a single-precision floating-point strided array using extended accumulation and returning an extended precision result.</span>
 -   <span class="package-name">[`@stdlib/stats-base/variancepn`][@stdlib/stats/base/variancepn]</span><span class="delimiter">: </span><span class="description">calculate the variance of a strided array using a two-pass algorithm.</span>
--   <span class="package-name">[`@stdlib/stats-base/svariancepn`][@stdlib/stats/base/svariancepn]</span><span class="delimiter">: </span><span class="description">calculate the variance of a single-precision floating-point strided array using a two-pass algorithm.</span>
+-   <span class="package-name">[`@stdlib/stats-strided/svariancepn`][@stdlib/stats/strided/svariancepn]</span><span class="delimiter">: </span><span class="description">calculate the variance of a single-precision floating-point strided array using a two-pass algorithm.</span>
 
 </section>
 
@@ -482,7 +482,7 @@ Copyright &copy; 2016-2025. The Stdlib [Authors][stdlib-authors].
 
 [@stdlib/stats/base/variancepn]: https://github.com/stdlib-js/stats-base-variancepn
 
-[@stdlib/stats/base/svariancepn]: https://github.com/stdlib-js/stats-base-svariancepn
+[@stdlib/stats/strided/svariancepn]: https://github.com/stdlib-js/stats-strided-svariancepn
 
 <!-- </related-links> -->
 
